@@ -19,7 +19,7 @@ For more details, please visit the following link: [Python for Noobs: Python Dat
 
 ## Getting Started
 
-To get started with Python data types, make sure you have Python installed on your machine. You can download it from the official [Python website](https://www.python.org/downloads/).
+To get started with Python data types, you can use the online Python editor at [PythonID](https://pythonid.com/). This platform allows you to write and run Python code directly in your browser without the need for local installation.
 
 ## Example Code
 
